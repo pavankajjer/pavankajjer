@@ -52,7 +52,7 @@
 
 ###
 
-<p align="left">EDUCATION</p>
+<p align="left">EDUCATION🎓</p>
 
 ###
 
