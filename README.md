@@ -6,6 +6,11 @@
 
 ###
 
+
+<h2 align="left">PROFESSIONAL SUMMARY </h2>
+
+###
+
 <p align="left">Certified and results-driven DevOps Engineer with 2+ years of experience in automating infrastructure, implementing CI/CD pipelines, and managing cloud-native environments using AWS, Docker, Kubernetes, and Terraform. Proven ability to streamline deployment processes, reduce system downtime, and collaborate with cross-functional teams in Agile environments. Strong understanding of DevSecOps practices and proactive monitoring solutions.</p>
 
 ###
