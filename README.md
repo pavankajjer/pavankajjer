@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">Email : pavankajjer@gmail.com  <br>|Location : Bangalore, India<br>|LinkedIn : https://www.linkedin.com/in/pavankumar-s-kajjer <br> | GitHub : https://github.com/pavankajjer</h6>
+<h6 align="left">Email : pavankajjer@gmail.com  <br>Location : Bangalore, India<br>LinkedIn : https://www.linkedin.com/in/pavankumar-s-kajjer <br> GitHub : https://github.com/pavankajjer</h6>
 
 ###
 
